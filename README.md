@@ -16,6 +16,3 @@ The application uses the following API endpoints to fetch data:
   - GET `https://dummy-backend-production.up.railway.app/api/transactions/joined` 
   - GET `https://dummy-backend-production.up.railway.app/api/customers` 
   - GET `https://dummy-backend-production.up.railway.app/api/customers/joined`
-
-## Deployment
-Here you can try the website [demo](https://route-frontend-task-eight.vercel.app/).
