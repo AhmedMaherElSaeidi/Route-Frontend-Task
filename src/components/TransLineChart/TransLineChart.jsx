@@ -42,7 +42,6 @@ const TransLineChart = ({ customer }) => {
         <CartesianGrid strokeDasharray="3 3" />
         <XAxis dataKey="date" />
         <YAxis dataKey="amount" />
-        <Tooltip />
         <Legend />
         <Line
           type="monotone"

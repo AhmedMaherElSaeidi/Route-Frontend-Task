@@ -23,3 +23,12 @@
     width: 350px !important;
   }
 }
+@media screen and (max-width: 450px) {
+  .line-chart > div {
+    width: 300px !important;
+    height: 250px !important;
+  }
+  .line-chart > div .recharts-legend-wrapper {
+    width: 300px !important;
+  }
+}
