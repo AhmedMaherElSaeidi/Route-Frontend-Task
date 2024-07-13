@@ -1,0 +1,11 @@
+.transactions-page .page-filter {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.transactions-page .page-filter > input,
+.transactions-page .page-filter > select {
+  width: 20rem;
+  margin: 0.25rem;
+}

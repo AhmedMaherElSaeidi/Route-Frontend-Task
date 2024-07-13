@@ -1,0 +1,22 @@
+nav .navbar-toggler {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #088f8f;
+  border: none !important;
+}
+nav .navbar-toggler:hover {
+  background-color: #e7e7e7;
+}
+nav .navbar-toggler:focus {
+  box-shadow: none !important;
+  text-decoration: none;
+}
+nav .navbar-toggler:focus-visible {
+  outline: none !important;
+}
+nav .active {
+  font: small;
+  font-weight: bold;
+  color: #088f8f !important;
+}
